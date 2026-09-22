@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,shipped_at,delivered_at,updated_at,city,courier,payment_status,order_status,promised_days,order_value,is_test_order
+O1001,C01,29-04-26,01-05-26,03-05-26,03-05-26,Bengaluru,ShipQuick,Paid,Delivered,2,1200,No
+O1002,C02,02-05-26,03-05-26,07-05-26,07-05-26,Mumbai,shipquick,pending,delivered,3,900,No
+O1002,C02,02-05-26,03-05-26,07-05-26,08-05-26,Mumbai,ShipQuick,Paid,Delivered,3,900,No
+O1003,C03,04-05-26,05-05-26,06-05-26,06-05-26,Delhi,FastBee,Pending,Delivered,2,650,No
+O1004,C04,05-05-26,06-05-26,01-06-26,01-06-26,Pune,Blue Dart,Paid,Delivered,4,2000,No
+O1005,C05,08-05-26,09-05-26,,10-05-26,Chennai,Fastbee,Paid,Cancelled,3,700,No
+O1006,C06,10-05-26,11-05-26,14-05-26,14-05-26,Mumbai,Bluedart,Paid,Delivered,3,1500,No
+O1006,C06,10-05-26,11-05-26,14-05-26,14-05-26,Mumbai,Bluedart,Paid,Delivered,3,1500,No
+O1007,C07,12-05-26,13-05-26,15-05-26,15-05-26,Bangalore,ShipQuick,Paid,Delivered,2,1,Yes
+O1008,C08,15-05-26,16-05-26,18-05-26,18-05-26,Pune,FastBee,Paid,Delivered,-2,500,No
